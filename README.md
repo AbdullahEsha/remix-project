@@ -156,7 +156,7 @@ project-name/
    ```bash
    npm run dev
    ```
-2. Open the application at `http://localhost:3000`.
+2. Open the application at `http://localhost:5173`.
 
 ---
 
